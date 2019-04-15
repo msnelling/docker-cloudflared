@@ -1,5 +1,13 @@
 # docker-cloudflared
-[![Docker Build Status](https://img.shields.io/docker/build/msnelling/cloudflared.svg)](https://hub.docker.com/r/msnelling/cloudflared)
+<p>
+  <a href="https://github.com/msnelling/cloudflared/blob/master/LICENSE"><img src="https://badgen.net/github/license/msnelling/cloudflared?color=cyan"/></a>
+  <a href="https://cloud.docker.com/repository/docker/msnelling/cloudflared"><img src="https://images.microbadger.com/badges/image/msnelling/cloudflared.svg"/></a>
+  <a href="https://cloud.docker.com/repository/docker/msnelling/cloudflared"><img src="https://badgen.net/docker/pulls/msnelling/cloudflared?icon=docker&label=pulls"/></a>
+  <a href="https://cloud.docker.com/repository/docker/msnelling/cloudflared"><img src="https://badgen.net/docker/stars/msnelling/cloudflared?icon=docker&label=stars"/></a>
+  <a href="https://github.com/msnelling/cloudflared"><img src="https://badgen.net/github/forks/msnelling/cloudflared?icon=github&label=forks"/></a>
+  <a href="https://github.com/msnelling/cloudflared"><img src="https://badgen.net/github/stars/msnelling/cloudflared?icon=github&label=stars"/></a>
+  <a href="https://cloud.docker.com/repository/docker/msnelling/cloudflared/builds"><img src="https://badgen.net/github/status/msnelling/cloudflared"/></a>
+</p>
 
 A docker container for running [Cloudflare's Argo Tunnel](https://developers.cloudflare.com/argo-tunnel/quickstart/) to proxy a service.
 
